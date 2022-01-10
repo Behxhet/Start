@@ -2,8 +2,7 @@
 
 Mit diesem Programm kann man von 1000 runterzählen.
 
-<img width="675" alt="image" src="https://user-images.githubusercontent.com/97448750/148773827-289f3d4d-2cd8-48b9-8191-56c6b8e124f0.png">
-
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/97448750/148787389-4329aea6-a272-4887-bbcd-57ba0b8443eb.png">
 
 
 "Features"
